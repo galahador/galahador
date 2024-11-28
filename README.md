@@ -1,17 +1,7 @@
-   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swft" alt="Swift" width="40" height="40"/>&nbsp;
-  </div>
+<a href="https://samy.pl"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="100%" height="100%"></a>
+```math
+\ce{$&#x5C;unicode[font-family: "Courier New", monospace; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/samyk/samyk/master/.../w.jpg');]{x0000}$}
 
-  
-  <a href="https://www.linkedin.com/in/petarlemajic">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY4MmVmenQ2cHAzYzdqdDAwbnJ6NGE4dXRjcml5OGhxMHZlbjR1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rbJrclh5cnPH8qyvLT/giphy.gif" width="100"/>
-  </a>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/petarlemajic/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-</div>
 
  
 <!--
